@@ -8,7 +8,7 @@ Burp-Suite-Professional repo made downloading burpsuite professional easy. You c
 
 # Next Step after Requirement
 1. Install JAVA and JDK.
-2. Downlaod the *Burp Suite Professional* Version in the form of *jar* extension. You will see this option while downloading the Burpsuite Professional from the drop-down option. When you click the drop-down option you will see the *JAR* option click that and download.
+2. Downlaod the *Burp Suite Professional* Version form this link:https://portswigger.net/burp/releases/professional-community-2023-6-2?requestededition=professional&requestedplatform= in the form of *jar* extension. You will see this option while downloading the Burpsuite Professional from the drop-down option. When you click the drop-down option you will see the *JAR* option click that and download.
 3. After that, double-click the BurpLoaderKeygen.jar which you downloaded form this repo.
 4. Copy The *Liscense* text from the liscense field.
 5. Hit the *Run* Button, which you will see next to the *Loader Command* Field.
