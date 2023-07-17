@@ -1,5 +1,6 @@
 # Burp-Suite-Professional
 Burp-Suite-Professional repo made downloading burpsuite professional easy. You can even run the latest version of burpsuite professional too. Take a look at the readme file for how its done.
+This method is workig till now. The last time I tried this method is on 2023, June, 16 and it worked.
 
 # Requirements
 1. Download Java if you haven't installed already: https://www.java.com/download/ie_manual.jsp
